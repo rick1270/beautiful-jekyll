@@ -1,4 +1,4 @@
-##### The DS Journey Begins
+## The DS Journey Begins
 
 
 When I was 13 years old, I used to dial up Charles Schwab every day to get the prices on a list of stock that somehow seemed interesting to me. This was high tech… the alternative was to wait until the next days newspaper where the closing prices would all be listed. I was sure that having the information before other people would somehow give me an advantage. Upon receiving the information, I would use my pencil to meticulously mark the prices on graph paper. Taking great care to differentiate between 3/4 and 7/8 (back then prices were reported in fractions). Looking back, this marked the beginning of a life long interest in data.
@@ -12,4 +12,3 @@ Fortunately, I got a great job offer very quickly. A job as a Financial Planner 
 After quite a bit of thought, going to various meet ups, and talking to friends in various industries — I decided that I wanted a career dealing with data. Why not? It’s something I’ve always loved, I have a little money in the bank, and I know I can always get a sales job if I need to. Having taught myself a bit of programming and being very familiar with sales data, I set out to find a path that would lead me into the new profession. After comparing all of the options, I decided on a seven month online data science program at Lambda School. Having completed the first week, I can say that I am fairly certain that I made the right choice. The material is sometimes very difficult and frequently makes me wish I had actually gone to class and paid attention during my high school and college days, but, I love it. Dealing with data all day long, doing the assignments, meeting with instructors and peers is really enjoyable and I love the challenge.
 
 Gratefully, I have come a long way since I was 13, measuring squares on graph paper, and certainly have quite a ways to go. I look forward to learning and calling myself a Data Scientist (mainly because the title sounds really impressive to my son) and chronicling the journey along the way. Thank you for reading  — please feel free to get in touch.
-
